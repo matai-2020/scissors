@@ -14,10 +14,14 @@ router.get('/start', (req, res) => {
     // Must haves:
     //  1. Title: Which Teacher are you?
     //  2. Start button redirects to First Question
+    console.log('This is the start')
+    // res.redirect('/question/1')
 })
 
 router.get('/question/:id', (req, res) => {
     // Dynamic route points to question pages
+
+    // res.redirect('/result')
 })
 
 router.get('/result', (req, res) => {
