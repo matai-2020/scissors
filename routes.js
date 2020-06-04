@@ -10,14 +10,16 @@ module.exports = router
 
 router.get('/', (req, res) => {
     // Redirect root route to 'start' page
-    res.render('/index') 
+    res.redirect('/start') 
 })
 
-router.get('/main', (req, res) => {
+router.get('/start', (req, res) => {
     // Must haves:
     //  1. Title: Which Teacher are you?
     //  2. Start button redirects to First Question
+    res.render('questions/index')
     console.log('This is the start')
+
     // res.redirect('/question/1')
 })
 
