@@ -17,4 +17,3 @@ server.use(express.urlencoded({
 }))
 
 server.use('/', routes)
-// server.use('/faculty', routes)
