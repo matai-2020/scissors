@@ -1,5 +1,8 @@
 const express = require('express') // Import express to create Router
 const fs = require('fs') // Import FileSystem
+const path = require('path')
+
+const filePath = path.join(__dirname, 'teacher-data.json')
 
 const router = express.Router() // Create Router
 
