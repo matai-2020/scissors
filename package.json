@@ -1,0 +1,23 @@
+{
+  "name": "scissors",
+  "version": "1.0.0",
+  "description": "Ariana, Zac, Keenan and Jonty's group project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matai-2020/scissors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matai-2020/scissors/issues"
+  },
+  "homepage": "https://github.com/matai-2020/scissors#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
