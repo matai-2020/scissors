@@ -1,0 +1,34 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "teacher name": "Don",
+      "breakfast": "Museli"
+    },
+    {
+      "id": 2,
+      "teacher name": "Emily",
+      "breakfast": "Eggs Benedict"
+    },
+    {
+      "id": 3,
+      "teacher name": "Dougall",
+      "breakfast": "Anything on an English Muffin"
+    },
+    {
+      "id": 4,
+      "teacher name": "Carolyn",
+      "breakfast": "Omellette",
+    },
+    {
+      "id": 5,
+      "teacher name": "Lane",
+      "breakfast": "No Breakfast"
+    },
+    {
+      "id": 6,
+      "teacher name": "Laché",
+      "breakfast": "I don't mind what's for Breakfast, as long as it wasn't what I had yesterday"
+    }
+  ]
+}
