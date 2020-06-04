@@ -25,7 +25,7 @@ router.get('/start', (req, res) => {
 
 router.get('/question/1', (req, res) => {
     // Dynamic route points to question pages
-
+    res.render('questions/question-one')
     // res.redirect('/result')
 })
 
