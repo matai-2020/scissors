@@ -23,7 +23,7 @@ router.get('/start', (req, res) => {
     // res.redirect('/question/1')
 })
 
-router.get('/question/:id', (req, res) => {
+router.get('/question/1', (req, res) => {
     // Dynamic route points to question pages
 
     // res.redirect('/result')
