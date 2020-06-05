@@ -22,7 +22,7 @@ colous Warm Sand #CDB599FF */
 .start-button {
     background-color: #FF7E6F;
     border: 10px;
-    box-shadow: 5px 10px rgb(95, 93, 93)
+    box-shadow: 5px 10px rgba(250, 194, 89, 0.856);
     text-decoration-color: #5B84B1FF;
     padding: 20px;
     text-align: center;
@@ -47,6 +47,8 @@ colous Warm Sand #CDB599FF */
     height: auto;
     border-radius: 50px;
 }
+
+
 
 a:link {
     text-decoration: none;
