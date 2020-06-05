@@ -7,14 +7,14 @@ const server = express() // Create server
 module.exports = server // export server for routes
 
 server.engine('hbs', hbs({
-    defaultLayout: 'main',
-    extname: 'hbs'
+  defaultLayout: 'main',
+  extname: 'hbs'
 }))
 
 server.set('view engine', 'hbs')
 server.use(express.static('public'))
 server.use(express.urlencoded({
-    extended: false
+  extended: false
 }))
 
 server.use('/', routes)
