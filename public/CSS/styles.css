@@ -13,12 +13,17 @@ colous Warm Sand #CDB599FF */
 
 .container {
     font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: #DD9C4C;
+    padding: 10px 10px 10px 10px;
+    background-color:  #FFF3C3;
 }
 
 .start-button {
-    background-color: #E69A8DFF ;
-    border: none;
-    color: #CDB599FF;
+    background-color: #FF7E6F;
+    border: 10px;
+    box-shadow: 5px 10px rgb(95, 93, 93)
+    text-decoration-color: #5B84B1FF;
     padding: 20px;
     text-align: center;
     text-decoration: none;
