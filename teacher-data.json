@@ -3,32 +3,38 @@
     {
       "id": "1",
       "teacher name": "Don",
-      "breakfast": "Museli"
+      "breakfast": "Muesli",
+      "image": "public/don-smith.jpg"
     },
     {
       "id": "2",
       "teacher name": "Emily",
-      "breakfast": "Eggs Benedict"
+      "breakfast": "Eggs Benedict",
+      "image": "public/emily-parkes.jpg"
     },
     {
       "id": "3",
       "teacher name": "Dougall",
-      "breakfast": "Anything on an English Muffin"
+      "breakfast": "Anything on an English Muffin",
+      "image": "public/dougal-stott.jpg"
     },
     {
       "id": "4",
       "teacher name": "Carolyn",
-      "breakfast": "Omelette"
+      "breakfast": "Omelette",
+      "image": "public/caro-tauekistott.jpg"
     },
     {
       "id": "5",
       "teacher name": "Lane",
-      "breakfast": "No Breakfast"
+      "breakfast": "No Breakfast",
+      "image": "public/lane-lps.jpg"
     },
     {
       "id": "6",
       "teacher name": "Laché",
-      "breakfast": "I don't mind what's for Breakfast, as long as it wasn't what I had yesterday"
+      "breakfast": "I don't mind what's for Breakfast, as long as it wasn't what I had yesterday",
+      "image": "public/Lache.png"
     }
   ]
 }
