@@ -26,14 +26,14 @@
       "name": "Carolyn",
       "breakfast": "Omelette",
       "image": "/caro-tauekistott.jpg",
-      "image2": "/omelette.jpeg" 
+      "image2": "/omelette.jpg" 
     },
     {
       "id": "5",
       "name": "Lane",
       "breakfast": "No Breakfast",
       "image": "/lane-lps.jpg",
-      "image2": "/hungry.png" 
+      "image2": "/hungry.jpg" 
     },
     {
       "id": "6",
