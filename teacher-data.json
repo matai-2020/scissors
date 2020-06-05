@@ -4,37 +4,43 @@
       "id": "1",
       "name": "Don",
       "breakfast": "Muesli",
-      "image": "public/don-smith.jpg"
+      "image": "/don-smith.jpg",
+      "image2": "/muesli.jpg"      
     },
     {
       "id": "2",
       "name": "Emily",
       "breakfast": "Eggs Benedict",
-      "image": "public/emily-parkes.jpg"
+      "image": "/emily-parkes.jpg",
+      "image2": "/eggs-benedict.jpg" 
     },
     {
       "id": "3",
       "name": "Dougall",
       "breakfast": "Anything on an English Muffin",
-      "image": "public/dougal-stott.jpg"
+      "image": "/dougal-stott.jpg",
+      "image2": "/english-muffin.jpeg" 
     },
     {
       "id": "4",
       "name": "Carolyn",
       "breakfast": "Omelette",
-      "image": "public/caro-tauekistott.jpg"
+      "image": "/caro-tauekistott.jpg",
+      "image2": "/omelette.jpeg" 
     },
     {
       "id": "5",
       "name": "Lane",
       "breakfast": "No Breakfast",
-      "image": "public/lane-lps.jpg"
+      "image": "/lane-lps.jpg",
+      "image2": "/hungry.jpg" 
     },
     {
       "id": "6",
       "name": "Laché",
       "breakfast": "I don't mind what's for Breakfast, as long as it wasn't what I had yesterday",
-      "image": "public/Lache.png"
+      "image": "/Lache.png",
+      "image2": "/whatever.png" 
     }
   ]
 }
