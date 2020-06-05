@@ -39,8 +39,6 @@ router.post('/questions/results', (req, res) => {
 
     res.render('questions/result', teacher)
   })
-
-  console.log(choice)
 })
 
 // router.get('/result', (req, res) => {
