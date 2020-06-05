@@ -5,14 +5,14 @@
       "name": "Don",
       "breakfast": "Muesli",
       "image": "/don-smith.jpg",
-      "image2": "/muesli.jpg"      
+      "image2": "/muesli.jpg"
     },
     {
       "id": "2",
       "name": "Emily",
       "breakfast": "Eggs Benedict",
       "image": "/emily-parkes.jpg",
-      "image2": "/eggs-benedict.jpg" 
+      "image2": "/eggs-benedict.jpg"
     },
     {
       "id": "3",
