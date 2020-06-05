@@ -29,10 +29,18 @@ router.get('/question/1', (req, res) => {
   // res.redirect('/result')
 })
 
-router.post('/questions/results/:id', (req, res) => {
-    const choice = req.body
-    
-    console.log(choice)
+router.post('/questions/results', (req, res) => {
+  const choice = req.body.choice
+
+  fs.readFile(filePath, (err, contents) => {
+    if (err) return res.sendStatus(500)
+    const teachers = JSON.parse(contents)
+    const teacher = teachers.teachers.find(teach => teach.id === choice)
+
+    res.render('questions/result', teacher)
+  })
+
+  console.log(choice)
 })
 
 // router.get('/result', (req, res) => {
