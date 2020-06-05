@@ -37,3 +37,7 @@ colous Warm Sand #CDB599FF */
     align-items: center;*/
     
 }
+
+.image-circle {
+    border-radius: 10px;
+}
